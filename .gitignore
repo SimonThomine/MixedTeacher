@@ -1,0 +1,5 @@
+mvtec_results/*
+**/__pycache__
+venv/*
+featureVisu/*
+.vscode/*
